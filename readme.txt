@@ -5,9 +5,9 @@ The 4TH line
 The new line
 The newest line
 The akkndst line
-<<<<<<< HEAD
 It's a sunny day.
-=======
 I added this line in the update-readme branch
->>>>>>> update-readme
 Hello in master branch
+Hello dear
+
+Wcm to update-readme
