@@ -5,5 +5,13 @@ The 4TH line
 The new line
 The newest line
 The akkndst line
+It's a sunny day.
 I added this line in the update-readme branch
+<<<<<<< HEAD
 Hello dear
+=======
+Hello in master branch
+Hello dear
+
+Wcm to update-readme
+>>>>>>> master
